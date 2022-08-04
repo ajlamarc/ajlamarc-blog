@@ -13,10 +13,8 @@ sass:
 google_analytics_id: false # replace with "UA-XXXX"
 
 logo:
-  logo_desktop_image: assets/images/logo/aj-lamarc.png
-  logo_desktop_text: "AJ <strong>LaMarc</strong>"
-  logo_mobile_image: assets/images/logo/aj-lamarc.png
-  logo_mobile_text: ""
+  logo_desktop_text: "ajlamarc"
+  logo_mobile_text: "ajlamarc"
   logo_desktop_height: "36px"
   logo_desktop_width: "36px"
   logo_mobile_height: "36px"

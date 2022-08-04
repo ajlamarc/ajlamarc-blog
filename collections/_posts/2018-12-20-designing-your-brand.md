@@ -2,6 +2,7 @@
 title: "Designing Your Brand"
 date: 2018-12-20T09:49:03+10:00
 layout: post
+authors: ["AJ LaMarc"]
 categories: ["Branding"]
 description: Branding is an intrinsic part of your companies success, learn why your brand matters.
 ---
