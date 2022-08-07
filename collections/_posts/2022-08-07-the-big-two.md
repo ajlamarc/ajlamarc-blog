@@ -15,7 +15,7 @@ We all make stupid decisions. The resulting failures can lead to regret and futu
 Well, _almost_ everyone makes stupid decisions.  [Warren Buffett](https://en.wikipedia.org/wiki/Warren_Buffett) and [Charlie Munger](https://fs.blog/intellectual-giants/charlie-munger/) of Berkshire Hathaway might be exceptions.
 
 Luckily, Charlie Munger has spared some time to teach us all how to be a bit less stupid. Munger stresses the importance of [mental models](https://fs.blog/mental-models/) and multidisciplinary thinking. He is vague about his own mental models, pushing his students to derive their own.
-## Munger's students
+## Mungerisms
 Charlie Munger is like the Bible for decision makers.  Most people don't have the patience or intellect to understand the Bible, so we need someone to [break it down](https://www.youtube.com/watch?v=f-wWBGo6a2w&list=PL22J3VaeABQD_IZs7y60I3lUrrFTzkpat&ab_channel=JordanBPeterson) for us.  And someone to [break down the breakdown](https://medium.com/be-a-brilliant-writer/this-forgotten-book-could-change-your-life-jordan-petersons-biblical-lectures-f01ae8ea4bf0).  
 
 Likewise for “Mungerisms.” Munger's wisdom, conveyed in talks and speeches, first made its way into a few important books.  By my own assessment, these are:
@@ -23,7 +23,7 @@ Likewise for “Mungerisms.” Munger's wisdom, conveyed in talks and speeches, 
 - [Seeking Wisdom](https://www.poorcharliesalmanack.com/seeking_wisdom.php) by Peter Bevelin
 - [All I Want To Know Is Where I'm Going To Die So I'll Never Go There](https://www.poorcharliesalmanack.com/all_i_want_to_know.php) by Peter Bevelin
 
-Then blogs like [Farnam Street](https://fs.blog/) and [Wealest](https://www.wealest.com/) made Mungerisms even more accessible.  Finally, Twitter.
+Then blogs like [Farnam Street](https://fs.blog/) and [Wealest](https://www.wealest.com/) made Mungerisms even more accessible.  Finally, [Twitter](https://twitter.com/charliebot).
 ### Peter Kaufman's three buckets
 All this talk of mental models makes us ask, "What's the most important mental model?" The answer comes from one of Munger's top students, Peter Kaufman.
 
