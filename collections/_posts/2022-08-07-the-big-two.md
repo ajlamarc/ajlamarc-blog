@@ -29,14 +29,8 @@ All this talk of mental models makes us ask, "What's the most important mental m
 
 In [this talk](https://soundcloud.com/user-339685480/peter-kaufman-on-the-multi-disciplinary-approach-to-thinking), Kaufman uses his "three buckets" to derive two key models:
 
-<blockquote>
-    Using a true multidisciplinary understanding of things, Peter identifies two often overlooked, parabolic “Big Ideas”: 1) Mirrored Reciprocation (go positive and go first) and 2) Compound Interest (being constant). A great “Life Hack” is to simply combine these two into one basic approach to living your life: “Go positive and go first, and be constant in doing it.”
-
-    **There may be no better formula for living the best life you could possibly live.** -Farnam Street
-</blockquote>
+> Using a true multidisciplinary understanding of things, Peter identifies two often overlooked, parabolic “Big Ideas”: 1) Mirrored Reciprocation (go positive and go first) and 2) Compound Interest (being constant). A great “Life Hack” is to simply combine these two into one basic approach to living your life: “Go positive and go first, and be constant in doing it.” **There may be no better formula for living the best life you could possibly live.** -Farnam Street
 
 The future posts of this series will be applications of this “Life Hack.” In the meantime, listen to Kaufman's talk [here](https://soundcloud.com/user-339685480/peter-kaufman-on-the-multi-disciplinary-approach-to-thinking) and read more about its implications [here](https://www.wealest.com/articles/slow-incremental-progress).
 
-<blockquote>
-    The world is so damn simple. It’s not complicated at all! Every single person on this planet is looking for the same thing. Now, why is it that we don’t act on these very simple things? -Peter Kaufman
-</blockquote>
+> The world is so damn simple. It’s not complicated at all! Every single person on this planet is looking for the same thing. Now, why is it that we don’t act on these very simple things? -Peter Kaufman
