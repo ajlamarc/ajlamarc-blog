@@ -4,7 +4,7 @@ title:  "the future of real estate"
 date:   2022-08-18
 authors: ["AJ LaMarc"]
 description: co-living communities, and the metaverse?
-categories: ["trends"]
+categories: ["trends", "technology"]
 ---
 Asking “Where should I live?” used to be a non-starter: you lived where your job was. Over the last two years, remote work has exploded, and many people can start asking this question. 
 
