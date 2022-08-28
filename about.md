@@ -9,4 +9,4 @@ image:
 
 Writers say that writing is the best way to understand ideas.
 
-They might be a bit biased.  I'll give it a shot and _report_ back :slightly_smiling_face:.
+They might be a bit biased.  I'll give it a shot and _report_ back 🙂.
