@@ -1,7 +1,7 @@
 ---
 layout: home
 title:
-heading: Posts
+heading: posts
 description:
 
 ---
